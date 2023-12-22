@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">X vs 0</string>
+
+
+    <string name="playerOne">Player 1</string>
+    <string name="playerTwo">Player 2</string>
+    <string name="noWinner">No Winner</string>
+    <string name="oneWinner">G`olib 1</string>
+    <string name="twoWinner">G`olib 2</string>
+    <string name="status">STATUS</string>
+    <string name="playAgain">PLAY AGAIN</string>
+    <string name="reset">RESTART</string>
+    <string name="changeImage">Change background</string>
+    <string name="score">Natijalar</string>
+
+
+    <!--    <string name="playerOne">Player-1 Score</string>-->
+    <!--    <string name="playerTwo">Player-2 Score</string>-->
+    <!--    <string name="noWinner">No Winner</string>-->
+    <!--    <string name="oneWinner">Player-1 has won</string>-->
+    <!--    <string name="twoWinner">Player-2 has won</string>-->
+    <!--    <string name="status">Status</string>-->
+    <!--    <string name="playAgain">Play again</string>-->
+    <!--    <string name="reset">Reset</string>-->
+    <!--    <string name="changeImage">Change image</string>-->
+
+
+</resources>
